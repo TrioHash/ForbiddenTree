@@ -10,4 +10,4 @@ The forbidden tree is a common motif found in many mythologies and religious tra
 - Different Scene Types
 - If you are lucky enough, you might get the Forbidden Fruit
 
-[Mint this Project NFT on Foundation](https://foundation.app/ "link title")
+[Mint this Project NFT on Foundation](https://foundation.app/collection/fbt-triohash "link title")
